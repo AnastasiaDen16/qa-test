@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dOQjBH9B8GUVSoxF8+NecVsrDYJQK0SwyPUnKcjXk4XrI1kI1id4cdWdJNcSjQC8x3glmOhK2dSZFnTccVMt0g==",
+  "dgSpecHash": "etNSLOCv5VAnlpNey7Z0bqlVC1flDGU3HmJuXvOXf8ca2K5EKK0m/Iv3PmzVmds19Xr8oMCILjuVgzqm5pI9wA==",
   "success": true,
   "projectFilePath": "E:\\Work\\QATests\\QA_Test\\QA_Test\\QA_Test.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\Анастасия\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Анастасия\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Анастасия\\.nuget\\packages\\selenium.webdriver.chromedriver\\83.0.4103.3910\\selenium.webdriver.chromedriver.83.0.4103.3910.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

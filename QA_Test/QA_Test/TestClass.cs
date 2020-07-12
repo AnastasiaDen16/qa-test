@@ -12,11 +12,11 @@ namespace QA_Test
         [SetUp]
         public void SetUp()
         {
-            driver = new ChromeDriver(@"E:\Work\QA_Test");
+            driver = new ChromeDriver();
         }
 
         [Test]
-        public void SearchTextFromAboutPage()
+        public void Perfomance()
         {
             MainPage home = new MainPage(driver);
             home.goToMainPage();

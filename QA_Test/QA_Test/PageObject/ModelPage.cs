@@ -45,6 +45,8 @@ namespace QA_Test.PageObject
         public void CheckPrice()
         {
             price = Convert.ToDouble(ProductPrice.Text);
+            Console.WriteLine(ProductPrice.Text);
+            Console.WriteLine(price);
         }
         public void Ordered()
         {

@@ -191,8 +191,8 @@ E:\Work\QATests\QA_Test\QA_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Visual
 E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.csprojAssemblyReference.cache
 E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.AssemblyInfoInputs.cache
 E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.AssemblyInfo.cs
-E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.csproj.CoreCompileInputs.cache
 E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.csproj.CopyComplete
 E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.dll
 E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.pdb
 E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.genruntimeconfig.cache
+E:\Work\QATests\QA_Test\QA_Test\obj\Debug\netcoreapp3.1\QA_Test.csproj.CoreCompileInputs.cache
