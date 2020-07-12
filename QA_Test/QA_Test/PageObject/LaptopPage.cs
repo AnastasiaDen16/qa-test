@@ -63,9 +63,11 @@ namespace QA_Test.PageObject
         {
             EnterPrice();
             Presence.Click();
+            Actions actions = new Actions(driver);
+            actions.MoveToElement(scrollFor);
+            actions.Perform();
             Model.Click();
             Line.Click(); 
-            Actions actions = new Actions(driver);
             actions.MoveToElement(scrollFor);
             actions.Perform();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
